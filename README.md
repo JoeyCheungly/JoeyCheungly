@@ -7,7 +7,7 @@ Check this out!! 💡[LinkedIn](https://www.linkedin.com/in/joey-cheung-37937321
 ## GitHub Repos:
 
 **GenAI:**
-  - [GAN for MRI Brain Images](https://github.com/JoeyCheungly/GAN-for-MRI-Brain-Images)
+  - [GAN for MRI Brain Images](https://github.com/JoeyCheungly/GAN-for-MRI-Brian-Images)
 
 **NLP:**
   - [Abstractive Dialogue Summarization using BART](https://github.com/JoeyCheungly/Abstractive-Dialogue-Summarization-using-BART)
