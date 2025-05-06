@@ -11,7 +11,7 @@ Check this out!! 💡[LinkedIn](https://www.linkedin.com/in/joey-cheung-37937321
 
 **NLP:**
   - [Abstractive Dialogue Summarization using BART](https://github.com/JoeyCheungly/Abstractive-Dialogue-Summarization-using-BART)
-  - [Retrieval-Augmented-Generation-RAG](https://github.com/JoeyCheungly/Retrieval-Augmented-Generation-RAG)
+  - [Retrieval-Augmented-Generation-RAG](https://github.com/JoeyCheungly/Retrieval-Augmented-Generation-RAG-)
   - [Tutorial Paper on Text Summarization](https://github.com/JoeyCheungly/Tutorial-paper-on-Text-Summarization)
   
  **Big Data Analytics:**
